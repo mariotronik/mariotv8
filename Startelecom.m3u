@@ -1,293 +1,351 @@
 #EXTM3U
 
--- [ CATEGORÍA: NOTICIAS ] --
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/a24.png", Canal A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/c5n.png", Canal C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/cronica.png", Canal Cronica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/canal26.png", Canal 26TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/lanacion.png", Canal La Nacion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/canal26.png", Canal Canal 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/rt.png", Canal RT Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/cnn.png", Canal CNN En Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://logo.m3uassets.com/tn.png", Canal TN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a097/index.m3u8
+--
+### AIRE Y NOTICIAS
+--
+#EXTINF:11 tvg-id="" tvg-name="Telefe HD" tvg-logo="https://logo.m3uassets.com/telefe.png" group-title="AIRE Y NOTICIAS",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="el trece HD" tvg-logo="https://logo.m3uassets.com/eltrece.png" group-title="AIRE Y NOTICIAS",el trece HD
+http://138.59.227.20:8000/play/a07b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="America TV HD" tvg-logo="https://logo.m3uassets.com/america.png" group-title="AIRE Y NOTICIAS",America TV HD
+http://138.59.227.20:8000/play/a094/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="el nueve HD" tvg-logo="https://logo.m3uassets.com/elnueve.png" group-title="AIRE Y NOTICIAS",el nueve HD
+http://138.59.227.20:8000/play/a08k/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TV Publica HD" tvg-logo="https://logo.m3uassets.com/tvpublica.png" group-title="AIRE Y NOTICIAS",TV Publica HD
+http://138.59.227.20:8000/play/a095/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TN HD" tvg-logo="https://logo.m3uassets.com/tn.png" group-title="AIRE Y NOTICIAS",TN HD
+http://138.59.227.20:8000/play/a097/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="C5N" tvg-logo="https://logo.m3uassets.com/c5n.png" group-title="AIRE Y NOTICIAS",C5N
+http://138.59.227.20:8000/play/a05v/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="A24" tvg-logo="https://logo.m3uassets.com/a24.png" group-title="AIRE Y NOTICIAS",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Canal 26" tvg-logo="https://logo.m3uassets.com/canal26.png" group-title="AIRE Y NOTICIAS",Canal 26
+http://138.59.227.20:8000/play/a061/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="26TV" tvg-logo="https://logo.m3uassets.com/canal26.png" group-title="AIRE Y NOTICIAS",26TV
+http://138.59.227.20:8000/play/a05x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Crónica" tvg-logo="https://logo.m3uassets.com/cronica.png" group-title="AIRE Y NOTICIAS",Crónica
+http://138.59.227.20:8000/play/a05w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="La Nacion TV" tvg-logo="https://logo.m3uassets.com/lnmas.png" group-title="AIRE Y NOTICIAS",La Nacion TV
+http://138.59.227.20:8000/play/a05y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CNN en Español" tvg-logo="https://logo.m3uassets.com/cnnespanol.png" group-title="AIRE Y NOTICIAS",CNN en Español
+http://138.59.227.20:8000/play/a093/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.m3uassets.com/canalciudad.png" group-title="AIRE Y NOTICIAS",Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Encuentro" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="AIRE Y NOTICIAS",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8?hls
 
--- [ CATEGORÍA: CINE Y SERIES ] --
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/amc.png", Canal AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/tcm.png", Canal TCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/volver.png", Canal Volver
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/studiouniversal.png", Canal Studio Universal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/usanetwork.png", Canal Usa Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/cinear.png", Canal Cine.AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hbomundi.png", Canal HBO Mundi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", Canal HBO Xtreme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hbosignature.png", Canal HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/space.png", Canal Space HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/paramount.png", Canal Paramount HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hbo.png", Canal HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hboplus.png", Canal HBO Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hbo2.png", Canal HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/hbofamily.png", Canal HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/europa.png", Canal Europa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/tlnovelas.png", Canal TLNovelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/starchannel.png", Canal Star Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/cinecanal.png", Canal Cinecanal HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/tnt.png", Canal TNT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/tntseries.png", Canal TNT Series HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/tntnovelas.png", Canal TNT Novelas HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/cinemax.png", Canal Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/warnerchannel.png", Canal Warner Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09d/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/axn.png", Canal AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/universal.png", Canal Universal HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://logo.m3uassets.com/sonymovies.png", Canal Sony Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09j/index.m3u8
+--
+### DEPORTES
+--
+#EXTINF:0 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logo.m3uassets.com/tntsports.png" group-title="DEPORTES",TNT Sports HD
+http://138.59.227.20:8000/play/a06z/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
+http://138.59.227.20:8000/play/a086/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://logo.m3uassets.com/espnhd.png" group-title="DEPORTES",ESPN HD
+http://138.59.227.20:8000/play/a099/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://logo.m3uassets.com/espn2hd.png" group-title="DEPORTES",ESPN 2 HD
+http://138.59.227.20:8000/play/a098/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="DEPORTES",ESPN 3 HD
+http://138.59.227.20:8000/play/a09a/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="DEPORTES",ESPN 4 HD
+http://138.59.227.20:8000/play/a084/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="https://logo.m3uassets.com/tycsports.png" group-title="DEPORTES",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" group-title="DEPORTES",Fox Sports HD
+http://138.59.227.20:8000/play/a085/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="DEPORTES",Fox Sports 2 HD
+http://138.59.227.20:8000/play/a09b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="DEPORTES",Fox Sports 3 HD
+http://138.59.227.20:8000/play/a06y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="DeporTV" tvg-logo="https://logo.m3uassets.com/deportv.png" group-title="DEPORTES",DeporTV
+http://138.59.227.20:8000/play/a07f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="DirecTv Sports" tvg-logo="https://logo.m3uassets.com/dsports.png" group-title="DEPORTES",DirecTv Sports
+http://138.59.227.20:8000/play/a0ft/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Futbol Total" tvg-logo="https://logo.m3uassets.com/futboltotal.png" group-title="DEPORTES",Futbol Total
+http://138.59.227.20:8000/play/a0fs/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="https://logo.m3uassets.com/aztecadeportes.png" group-title="DEPORTES",Azteca Deportes
+http://138.59.227.20:8000/play/a0h0/index.m3u8?hls
 
--- [ CATEGORÍA: DEPORTES ] --
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/tycsports.png", Canal TyC Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/foxsports3.png", Canal Fox Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/tntsports.png", Canal TNT Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/deportv.png", Canal Deportv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn4.png", Canal ESPN 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/foxsports.png", Canal Fox Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espnpremium.png", Canal ESPN Premium HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn2.png", Canal ESPN 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn.png", Canal ESPN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png", Canal ESPN 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logo.m3uassets.com/foxsports2.png", Canal Fox Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09b/index.m3u8
+--
+### CINE Y SERIES
+--
+#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="CINE Y SERIES",HBO
+http://138.59.227.20:8000/play/a07m/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="CINE Y SERIES",HBO 2
+http://138.59.227.20:8000/play/a07o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="CINE Y SERIES",HBO Family
+http://138.59.227.20:8000/play/a07p/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://logo.m3uassets.com/hboplus.png" group-title="CINE Y SERIES",HBO Plus
+http://138.59.227.20:8000/play/a07n/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="CINE Y SERIES",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="CINE Y SERIES",HBO Mundi
+http://138.59.227.20:8000/play/a06f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png" group-title="CINE Y SERIES",HBO Xtreme
+http://138.59.227.20:8000/play/a06g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="CINE Y SERIES",Star Channel HD
+http://138.59.227.20:8000/play/a087/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="CINE Y SERIES",TNT HD
+http://138.59.227.20:8000/play/a08b/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="CINE Y SERIES",TNT Novelas HD
+http://138.59.227.20:8000/play/a08e/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="CINE Y SERIES",TNT Series HD
+http://138.59.227.20:8000/play/a08c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Space HD" tvg-logo="https://logo.m3uassets.com/space.png" group-title="CINE Y SERIES",Space HD
+http://138.59.227.20:8000/play/a071/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AXN HD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="CINE Y SERIES",AXN HD
+http://138.59.227.20:8000/play/a09e/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="FX HD" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="CINE Y SERIES",FX HD
+http://138.59.227.20:8000/play/a070/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://logo.m3uassets.com/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
+http://138.59.227.20:8000/play/a089/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cinemax" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="CINE Y SERIES",Cinemax
+http://138.59.227.20:8000/play/a08r/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://logo.m3uassets.com/warner.png" group-title="CINE Y SERIES",Warner Channel HD
+http://138.59.227.20:8000/play/a09d/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Universal HD" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="CINE Y SERIES",Universal HD
+http://138.59.227.20:8000/play/a09i/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="CINE Y SERIES",Studio Universal
+http://138.59.227.20:8000/play/a067/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Sony HD" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="CINE Y SERIES",Sony HD
+http://138.59.227.20:8000/play/a09c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" group-title="CINE Y SERIES",Sony Movies HD
+http://138.59.227.20:8000/play/a09j/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="A&E HD" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="CINE Y SERIES",A&E HD
+http://138.59.227.20:8000/play/a09h/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="CINE Y SERIES",AMC
+http://138.59.227.20:8000/play/a064/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://logo.m3uassets.com/paramount.png" group-title="CINE Y SERIES",Paramount HD
+http://138.59.227.20:8000/play/a073/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cine.AR" tvg-logo="https://logo.m3uassets.com/cinear.png" group-title="CINE Y SERIES",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Europa Europa" tvg-logo="https://logo.m3uassets.com/europaeuropa.png" group-title="CINE Y SERIES",Europa Europa
+http://138.59.227.20:8000/play/a07t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TCM" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="CINE Y SERIES",TCM
+http://138.59.227.20:8000/play/a065/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="USA Network" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-title="CINE Y SERIES",USA Network
+http://138.59.227.20:8000/play/a068/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Adult swim HD" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="CINE Y SERIES",Adult swim HD
+http://138.59.227.20:8000/play/a08d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="CINE Y SERIES",Comedy Central HD
+http://138.59.227.20:8000/play/a072/index.m3u8?hls
 
--- [ CATEGORÍA: VARIADADES ] --
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/rural.png", Canal Rural
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/metro.png", Canal Metro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png", Canal Ciudad Magazine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/fx.png", Canal FX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/comedycentral.png", Canal Comedy Central HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/eltrece.png", Canal El Trece HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/lifetime.png", Canal Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/elgourmet.png", Canal El Gourmet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/canal-de-las-estrellas.png", Canal Canal De Las Estrellas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/telefe.png", Canal Telefe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/elnueve.png", Canal El Nueve HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/eentertainment.png", Canal E! Entertaiment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/americatv.png", Canal America TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/tvpublica.png", Canal TV Publica HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/sony.png", Canal Sony HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://logo.m3uassets.com/ae.png", Canal A&E HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09h/index.m3u8
+--
+### DIBUJITOS e INFANTILES
+--
+#EXTINF:0 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="DIBUJITOS",Cartoon Network HD
+http://138.59.227.20:8000/play/a083/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="DIBUJITOS",Disney Channel HD
+http://138.59.227.20:8000/play/a06w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://logo.m3uassets.com/disneyjunior.png" group-title="DIBUJITOS",Disney Junior
+http://138.59.227.20:8000/play/a08x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="DIBUJITOS",Nickelodeon
+http://138.59.227.20:8000/play/a08y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="DIBUJITOS",Nick Jr
+http://138.59.227.20:8000/play/a07s/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="DIBUJITOS",Discovery Kids
+http://138.59.227.20:8000/play/a07r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Baby TV" tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="DIBUJITOS",Baby TV
+http://138.59.227.20:8000/play/a06j/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Pakapaka" tvg-logo="https://logo.m3uassets.com/pakapaka.png" group-title="DIBUJITOS",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8?hls
 
--- [ CATEGORÍA: CULTURA ] --
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/encuentro.png", Canal Encuentro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png", Canal Discovery Turbo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/canala.png", Canal Canal A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/history2.png", Canal History 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/hgtv.png", Canal HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoveryscience.png", Canal Discovey Science
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoverychannel.png", Canal Discovery channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoverytheater.png", Canal Discovery Theather HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/filmandarts.png", Canal Film & Arts HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoveryworld.png", Canal Discovery world HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoveryhomehealth.png", Canal Discovery H&H HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/discoverychannel.png", Canal Discovery Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/history.png", Canal Histoy Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/natgeo.png", Canal Nat Geo HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://logo.m3uassets.com/history.png", Canal The Histoy Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a09g/index.m3u8
+--
+### MUSICA
+--
+#EXTINF:0 tvg-id="" tvg-name="MTV" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="MUSICA",MTV
+http://138.59.227.20:8000/play/a06r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HTV" tvg-logo="https://logo.m3uassets.com/htv.png" group-title="MUSICA",HTV
+http://138.59.227.20:8000/play/a06t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://logo.m3uassets.com/quieromusica.png" group-title="MUSICA",Quiero Musica
+http://138.59.227.20:8000/play/a06s/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="E40 DIGITAL" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2020/09/E-40.jpg" group-title="MUSICA",E40 DIGITAL
+http://138.59.227.20:8000/play/a0fp/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Farra Play Tv" tvg-logo="https://logo.m3uassets.com/farraplay.png" group-title="MUSICA",Farra Play Tv
+http://138.59.227.20:8000/play/a0gj/index.m3u8?hls
 
--- [ CATEGORÍA: INFANTILES ] --
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/pakapaka.png", Canal Pakapaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/babytv.png", Canal Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/discoverykids.png", Canal Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/nickjr.png", Canal Nick Jr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png", Canal Cartoon Network HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/adultswim.png", Canal Adult Swim HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/disneyjunior.png", Canal Disney Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://logo.m3uassets.com/nickelodeon.png", Canal Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a08y/index.m3u8
+--
+### DOCUMENTALES Y VARIEDADES
+--
+#EXTINF:0 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="DOCUMENTALES",Discovery Channel HD
+http://138.59.227.20:8000/play/a08g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="The History Channel HD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="DOCUMENTALES",The History Channel HD
+http://138.59.227.20:8000/play/a09g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="History 2" tvg-logo="https://logo.m3uassets.com/history2.png" group-title="DOCUMENTALES",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://logo.m3uassets.com/natgeo.png" group-title="DOCUMENTALES",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="DOCUMENTALES",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://logo.m3uassets.com/discoverytheater.png" group-title="DOCUMENTALES",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://logo.m3uassets.com/discoveryworld.png" group-title="DOCUMENTALES",Discovery World HD
+http://138.59.227.20:8000/play/a076/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="DOCUMENTALES",Discovery Turbo
+http://138.59.227.20:8000/play/a062/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://logo.m3uassets.com/discoveryhomeandhealth.png" group-title="DOCUMENTALES",Discovery H&H HD
+http://138.59.227.20:8000/play/a08f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://logo.m3uassets.com/elgourmet.png" group-title="DOCUMENTALES",El Gourmet
+http://138.59.227.20:8000/play/a07u/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="DOCUMENTALES",HGTV
+http://138.59.227.20:8000/play/a06o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Lifetime" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="DOCUMENTALES",Lifetime
+http://138.59.227.20:8000/play/a07l/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Film & Arts HD" tvg-logo="https://logo.m3uassets.com/filmandarts.png" group-title="DOCUMENTALES",Film & Arts HD
+http://138.59.227.20:8000/play/a075/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Volver" tvg-logo="https://logo.m3uassets.com/volver.png" group-title="DOCUMENTALES",Volver
+http://138.59.227.20:8000/play/a066/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="ciudad magazine" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png" group-title="DOCUMENTALES",ciudad magazine
+http://138.59.227.20:8000/play/a06m/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal a" tvg-logo="https://logo.m3uassets.com/canala.png" group-title="DOCUMENTALES",Canal a
+http://138.59.227.20:8000/play/a06d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="DOCUMENTALES",E! Entertainment
+http://138.59.227.20:8000/play/a08z/index.m3u8?hls
 
--- [ CATEGORÍA: MÚSICA ] --
-#EXTINF:-1 group-title="Música" tvg-logo="https://logo.m3uassets.com/mtv.png", Canal MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://logo.m3uassets.com/quieromusica.png", Canal Quiero Musica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://logo.m3uassets.com/htv.png", Canal HTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06t/index.m3u8
+--
+### REGIONALES E INTERNACIONALES
+--
+#EXTINF:11 tvg-id="" tvg-name="ABC HD" tvg-logo="" group-title="REGIONALES",ABC HD
+http://138.59.227.20:8000/play/a0g6/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="C9N Digital" tvg-logo="" group-title="REGIONALES",C9N Digital
+http://138.59.227.20:8000/play/a0e6/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="C9N HD" tvg-logo="" group-title="REGIONALES",C9N HD
+http://138.59.227.20:8000/play/a0fy/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="SNT" tvg-logo="" group-title="REGIONALES",SNT
+http://138.59.227.20:8000/play/a0e7/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="SNT HD" tvg-logo="" group-title="REGIONALES",SNT HD
+http://138.59.227.20:8000/play/a0e2/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="SNT IPTV" tvg-logo="" group-title="REGIONALES",SNT IPTV
+http://138.59.227.20:8000/play/a0h4/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Telefuturo Digital" tvg-logo="" group-title="REGIONALES",Telefuturo Digital
+http://138.59.227.20:8000/play/a0fh/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Telefuturo HD" tvg-logo="" group-title="REGIONALES",Telefuturo HD
+http://138.59.227.20:8000/play/a0ff/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Latele Digital" tvg-logo="" group-title="REGIONALES",Latele Digital
+http://138.59.227.20:8000/play/a0fi/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Latele HD" tvg-logo="" group-title="REGIONALES",Latele HD
+http://138.59.227.20:8000/play/a0fg/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Unicanal" tvg-logo="" group-title="REGIONALES",Unicanal
+http://138.59.227.20:8000/play/a0e8/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Unicanal HD" tvg-logo="" group-title="REGIONALES",Unicanal HD
+http://138.59.227.20:8000/play/a0dy/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="NPY HD" tvg-logo="" group-title="REGIONALES",NPY HD
+http://138.59.227.20:8000/play/a0fm/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Paravision HD" tvg-logo="" group-title="REGIONALES",Paravision HD
+http://138.59.227.20:8000/play/a0e4/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RPC Digital" tvg-logo="" group-title="REGIONALES",RPC Digital
+http://138.59.227.20:8000/play/a0e3/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RPC HD" tvg-logo="" group-title="REGIONALES",RPC HD
+http://138.59.227.20:8000/play/a0fl/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="GEN HD" group-title="REGIONALES",GEN HD
+http://138.59.227.20:8000/play/a0fk/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="GEN HD2" group-title="REGIONALES",GEN HD2
+http://138.59.227.20:8000/play/a0ej/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Mega Tv HD" group-title="REGIONALES",Mega Tv HD
+http://138.59.227.20:8000/play/a0g8/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="PRO TV HD" group-title="REGIONALES",PRO TV HD
+http://138.59.227.20:8000/play/a0fn/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="POPU TV HD" group-title="REGIONALES",POPU TV HD
+http://138.59.227.20:8000/play/a0fq/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal Extra" group-title="REGIONALES",Canal Extra
+http://138.59.227.20:8000/play/a0g9/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal 8 Villarrica" group-title="REGIONALES",Canal 8 Villarrica
+http://138.59.227.20:8000/play/a0fu/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Guaira Tv" group-title="REGIONALES",Guaira Tv
+http://138.59.227.20:8000/play/a0ga/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Tv Aire Oviedo" group-title="REGIONALES",Tv Aire Oviedo
+http://138.59.227.20:8000/play/a0gb/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Tv Max Oviedo" group-title="REGIONALES",Tv Max Oviedo
+http://138.59.227.20:8000/play/a0ew/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cambyreta Tv" group-title="REGIONALES",Cambyreta Tv
+http://138.59.227.20:8000/play/a0gd/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Mbocayaty Tv" group-title="REGIONALES",Mbocayaty Tv
+http://138.59.227.20:8000/play/a0gk/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Natalicio Tv" group-title="REGIONALES",Natalicio Tv
+http://138.59.227.20:8000/play/a0dh/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Paraguari Tv" group-title="REGIONALES",Paraguari Tv
+http://138.59.227.20:8000/play/a0fz/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Paraguay Tv" group-title="REGIONALES",Paraguay Tv
+http://138.59.227.20:8000/play/a0f8/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Yguazu Tv" group-title="REGIONALES",Yguazu Tv
+http://138.59.227.20:8000/play/a0ge/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Foz de Yguazu" group-title="REGIONALES",Foz de Yguazu
+http://138.59.227.20:8000/play/a0gv/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Sur Tv" group-title="REGIONALES",Sur Tv
+http://138.59.227.20:8000/play/a0e9/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Union Tv" group-title="REGIONALES",Union Tv
+http://138.59.227.20:8000/play/a0gm/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nanduti Tv" group-title="REGIONALES",Nanduti Tv
+http://138.59.227.20:8000/play/a0eq/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Bruno Masi Tv" group-title="REGIONALES",Bruno Masi Tv
+http://138.59.227.20:8000/play/a0gg/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Radio Colmenar Tv" group-title="REGIONALES",Radio Colmenar Tv
+http://138.59.227.20:8000/play/a0gf/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Suceso Tv" group-title="REGIONALES",Suceso Tv
+http://138.59.227.20:8000/play/a0gc/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cadena Master Tv" group-title="REGIONALES",Cadena Master Tv
+http://138.59.227.20:8000/play/a0ez/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Red Digital San Pedro" group-title="REGIONALES",Red Digital San Pedro (1)
+http://138.59.227.20:8000/play/a0ey/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Red Digital San Pedro" group-title="REGIONALES",Red Digital San Pedro (2)
+http://138.59.227.20:8000/play/a0gi/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="San Cristobal Tv" group-title="REGIONALES",San Cristobal Tv
+http://138.59.227.20:8000/play/a0ex/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Republica Tv Vca" group-title="REGIONALES",Republica Tv Vca
+http://138.59.227.20:8000/play/a0gl/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Monumental Tv Digital" group-title="REGIONALES",Monumental Tv Digital
+http://138.59.227.20:8000/play/a0fr/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CAMARA Camboriu" group-title="REGIONALES",CAMARA Camboriu
+http://138.59.227.20:8000/play/a0fw/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Tv Tropical Brasil" group-title="REGIONALES",Tv Tropical Brasil
+http://138.59.227.20:8000/play/a0h2/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Tv Aparecida" group-title="REGIONALES",Tv Aparecida
+http://138.59.227.20:8000/play/a0g5/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Galicia TV" group-title="REGIONALES",Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RAI Italia" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-title="REGIONALES",RAI Italia
+http://138.59.227.20:8000/play/a06u/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TVE" tvg-logo="https://logo.m3uassets.com/tve.png" group-title="REGIONALES",TVE
+http://138.59.227.20:8000/play/a080/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RT en Español" tvg-logo="https://logo.m3uassets.com/rt.png" group-title="REGIONALES",RT en Español
+http://138.59.227.20:8000/play/a07d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Albirroja Tv" group-title="REGIONALES",Albirroja Tv
+http://138.59.227.20:8000/play/a0dx/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Motor Sur Media" group-title="REGIONALES",Motor Sur Media
+http://138.59.227.20:8000/play/a0do/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Next Tv" group-title="REGIONALES",Next Tv
+http://138.59.227.20:8000/play/a0dp/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Tv Eventos HD" group-title="REGIONALES",Tv Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Teleclasica" group-title="REGIONALES",Teleclasica
+http://138.59.227.20:8000/play/a0gu/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Canal de las Estrellas" tvg-logo="https://logo.m3uassets.com/lasestrellas.png" group-title="REGIONALES",El Canal de las Estrellas
+http://138.59.227.20:8000/play/a07x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Latina Tv" group-title="REGIONALES",Latina Tv
+http://138.59.227.20:8000/play/a0gz/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TLNovelas" tvg-logo="https://logo.m3uassets.com/tlnovelas.png" group-title="REGIONALES",TLNovelas
+http://138.59.227.20:8000/play/a07y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Metro" tvg-logo="https://logo.m3uassets.com/metro.png" group-title="REGIONALES",Metro
+http://138.59.227.20:8000/play/a06l/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Rural" tvg-logo="https://logo.m3uassets.com/canalrural.png" group-title="REGIONALES",Rural
+http://138.59.227.20:8000/play/a06k/index.m3u8?hls
 
--- [ CATEGORÍA: INTERNACIONALES ] --
-#EXTINF:-1 group-title="Internacionales" tvg-logo="https://logo.m3uassets.com/raiitalia.png", Canal RAI Italia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="Internacionales" tvg-logo="https://logo.m3uassets.com/galiciatv.png", Canal Galicia tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="Internacionales" tvg-logo="https://logo.m3uassets.com/tve.png", Canal TVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://138.59.227.20:8000/play/a080/index.m3u8
+--
+### RELIGIOSOS
+--
+#EXTINF:0 tvg-id="" tvg-name="EWTN" tvg-logo="https://logo.m3uassets.com/ewtn.png" group-title="RELIGIOSOS",EWTN
+http://138.59.227.20:8000/play/a0g0/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="EWTN HD" tvg-logo="https://logo.m3uassets.com/ewtn.png" group-title="RELIGIOSOS",EWTN HD
+http://138.59.227.20:8000/play/a0fv/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="Venus Tv" group-title="RELIGIOSOS",Venus Tv
+http://138.59.227.20:8000/play/a0fc/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Maria Vision Tv" tvg-logo="https://logo.m3uassets.com/mariavision.png" group-title="RELIGIOSOS",Maria Vision Tv
+http://138.59.227.20:8000/play/a0f7/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Obedira Tv HD" group-title="RELIGIOSOS",Obedira Tv HD
+http://138.59.227.20:8000/play/a0g2/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RCC TV" group-title="RELIGIOSOS",RCC TV
+http://138.59.227.20:8000/play/a0eu/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RCC Tv" group-title="RELIGIOSOS",RCC Tv
+http://138.59.227.20:8000/play/a0gh/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nuevo Tiempo" tvg-logo="https://logo.m3uassets.com/nuevotiempo.png" group-title="RELIGIOSOS",Nuevo Tiempo
+http://138.59.227.20:8000/play/a0en/index.m3u8?hls
